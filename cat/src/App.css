@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: "MyCustomFont";
+}
+
+.staggered-text-1 {
+  max-width: 90%;
+}
+
+.staggered-text-2 {
+  max-width: 80%;
+}
+
+.staggered-text-3 {
+  max-width: 70%;
+}
